@@ -12,6 +12,7 @@ Sitio Web desarrollado con un Framework de Python denominado como Flask
 - 404 Not Found
 - Redirecciones
 - Before_request y After_request
-
+- Conexion con MySQL
+- Respuesta JSON
 
 ![Esta es una imagen de ejemplo](static/flask.png)
